@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FAFAD2"
+     >
+	<hocanhvan.doan.nhatnghe.DynamicLayoutViewGroup
+		android:id="@+id/menugroup"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent" >
+	
+		<ImageView
+			android:id="@+id/view1"
+			android:background="@drawable/one1"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+	
+		<ImageView
+			android:id="@+id/view2"
+			android:background="@drawable/two2"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+	
+		<ImageView
+			android:id="@+id/view3"
+			android:background="@drawable/three3"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+			
+		<ImageView
+			android:id="@+id/view4"
+			android:background="@drawable/four4"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+	
+		<ImageView
+			android:id="@+id/view5"
+			android:background="@drawable/five5"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+			
+		<ImageView
+			android:id="@+id/view6"
+			android:background="@drawable/six6"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+			
+		<ImageView
+			android:id="@+id/view7"
+			android:background="@drawable/seven7"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+			
+		<ImageView
+			android:id="@+id/view8"
+			android:background="@drawable/eight8"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+			
+		<ImageView
+			android:id="@+id/view9"
+			android:background="@drawable/nine9"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"	>
+		</ImageView>
+	</hocanhvan.doan.nhatnghe.DynamicLayoutViewGroup>
+</LinearLayout>
