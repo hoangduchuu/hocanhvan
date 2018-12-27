@@ -36,6 +36,7 @@ import android.media.MediaPlayer;
 			 dlvg.setLayoutModel(new SampleLayoutModel());
 			 nhacnen=MediaPlayer.create(MainActivity.this, R.raw.moichonok);
 			nhacnen.start();
+			Toast.makeText(this, "hello huuhoang", Toast.LENGTH_SHORT).show();
 		}
 
 	protected void onPause(){

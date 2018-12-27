@@ -20,10 +20,6 @@
         "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f89aa91404089038d7523f2a2fd04e29/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/admin/Documents/hocanhvan/app/build/intermediates/res/merged/debug/drawable-mdpi_one1.png.flat",
-        "source": "/Users/admin/Documents/hocanhvan/app/src/main/res/drawable-mdpi/one1.png"
-    },
-    {
         "merged": "/Users/admin/Documents/hocanhvan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
         "source": "/Users/admin/Documents/hocanhvan/app/src/main/res/drawable-xhdpi/ic_action_search.png"
     },
@@ -298,6 +294,10 @@
     {
         "merged": "/Users/admin/Documents/hocanhvan/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f89aa91404089038d7523f2a2fd04e29/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/hocanhvan/app/build/intermediates/res/merged/debug/drawable-mdpi_one1.jpeg.flat",
+        "source": "/Users/admin/Documents/hocanhvan/app/src/main/res/drawable-mdpi/one1.jpeg"
     },
     {
         "merged": "/Users/admin/Documents/hocanhvan/app/build/intermediates/res/merged/debug/layout_hocnghephatam.xml.flat",
