@@ -13,7 +13,7 @@ public class tacgia extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.tacgia);
+		setContentView(R.layout.material_design_profile_screen_xml_ui_design);
 		
 		giupdo=(ImageView)findViewById(R.id.hinhgiupdo);
 		menuchinh=(ImageView)findViewById(R.id.hinhbackmenu);
