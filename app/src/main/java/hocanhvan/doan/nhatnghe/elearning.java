@@ -24,7 +24,7 @@ public class elearning extends Activity {
 		menuchinh=(ImageView)findViewById(R.id.hinhbackmenu);
 		wb=(WebView)findViewById(R.id.webView1);
 		
-		wb.loadUrl("http://m.youtube.com/results?gl=US&client=mv-google&hl=vi&q=hoc+tieng+anh");
+		wb.loadUrl("https://m.youtube.com/playlist?list=PLP86Y-o3C1EAd1z-AmsgAQjd169Vi9u0P");
 		wb.setWebViewClient(new WebViewClient());
 		WebSettings webSettings = wb.getSettings();
 		webSettings.setJavaScriptEnabled(true);
